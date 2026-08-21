@@ -53,3 +53,4 @@ rsconnect/
 *.svg
 *.rds
 *.parquet
+/scripts/create_dictionaries

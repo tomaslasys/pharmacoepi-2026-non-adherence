@@ -1,7 +1,6 @@
 # pharmacoepi-2026-non-adherence
 
-## Repository for the manuscript: 
-## Primary non-adherence to electronic prescriptions in Lithua-nia, 2018–2024: nationwide prevalence, factors, and regional variation
+## Repository for the manuscript: Primary non-adherence to electronic prescriptions in Lithua-nia, 2018–2024: nationwide prevalence, factors, and regional variation
 
 ## Structure
 
